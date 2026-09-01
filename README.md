@@ -1,7 +1,7 @@
 # GenioSms api & ipn code
 # File structure
-#Api code
-    api.pl
+# Api code
+#    api.pl
     Main.java
     Programs.cs
     sendSms.php

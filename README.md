@@ -1,6 +1,6 @@
 # GenioSms api & ipn code
 # File structure
-Api code
+//Api code
     api.pl
     Main.java
     Programs.cs

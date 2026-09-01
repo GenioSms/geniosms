@@ -1,6 +1,6 @@
 # GenioSms api & ipn code
 # File structure
-Api code\n
+#Api code
     api.pl
     Main.java
     Programs.cs
@@ -8,12 +8,12 @@ Api code\n
     sendSms.pl
     sendSms.sh
 
-Ipn code (istant notification status msg sent/delivey
+#Ipn code (istant notification status msg sent/delivey
     ipn.php
     ipn.pl
 
 
-GenioSms is a sms gateway app
+#GenioSms is a sms gateway app
 
 Get gateway sms app from Google play store https://play.google.com/store/apps/details?id=com.diocle.geniosms
 

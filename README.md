@@ -1,5 +1,4 @@
-# geniosms
-# geniosms api code
+# GenioSms api & ipn code
 File structure
 Api code
     api.pl

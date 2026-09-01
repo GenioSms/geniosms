@@ -1,14 +1,14 @@
 # GenioSms api & ipn code
-# File structure
+File structure
 # Api code
-#    api.pl
+    api.pl
     Main.java
     Programs.cs
     sendSms.php
     sendSms.pl
     sendSms.sh
 
-#Ipn code (istant notification status msg sent/delivey
+# Ipn code (istant notification status msg sent/delivey
     ipn.php
     ipn.pl
 
